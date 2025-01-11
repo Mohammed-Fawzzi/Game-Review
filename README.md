@@ -14,7 +14,7 @@ Game Review app. This is a web application designed to help you explore and disc
 - CSS
 - Bootstrap
 - Font Awesome
-- JavaScript
+- JavaScript (Modules & OOP)
 - Free-to-Play Games Database API (https://rapidapi.com/digiwalls/api/free-to-play-games-database)
 
 ## Preview
